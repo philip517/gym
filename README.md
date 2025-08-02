@@ -11,7 +11,7 @@ This will be a basic introduction to the set up for a gym management system only
     $pass = '1234';
 
     
-  -or you can modify according to your preference
+  -or you can modify according to your preference in the gym/config.php as well as in your database users
 
   there is already an add user page /gym/add_user.php which will allow you to add a user and password.
   //the passwords have been hashed using the inbuilt hashing function in php
